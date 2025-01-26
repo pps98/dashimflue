@@ -1,0 +1,10 @@
+transformers
+google.generativeai
+collections
+wordcloud
+dotenv
+os
+hashlib
+diskcache
+tqdm
+traceback
