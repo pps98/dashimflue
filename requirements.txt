@@ -1,6 +1,5 @@
 transformers
 google.generativeai
-collections
 wordcloud
 dotenv
 os
