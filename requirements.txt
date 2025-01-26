@@ -1,9 +1,2 @@
 transformers
 google.generativeai
-wordcloud
-dotenv
-os
-hashlib
-diskcache
-tqdm
-traceback
